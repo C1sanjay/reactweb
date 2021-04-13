@@ -5,7 +5,7 @@ import java from "../src/images/java.png";
 import python from "../src/images/python.jpg";
 import Ai from "../src/images/ai.png";
 import ml from "../src/images/ml.jpg";
-import dl from "../src/images/deeplearn.jpeg";
+import dl from "../src/images/dlearn.png";
 import cys from "../src/images/cybersecurity.jpg";
 import android from "../src/images/android.jpg";
 import js from "../src/images/js.jpg";
